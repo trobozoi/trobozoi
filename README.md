@@ -16,7 +16,7 @@ I also create content and share knowledge on **software development, SaaS, and t
   <a href="https://github.com/trobozoi">
     <img src="https://img.shields.io/badge/GitHub-JAILTONARAUJO?style=for-the-badge&logo=github" />
   </a>
-  <a href="www.linkedin.com/in/antônio-jailton-carvalho-araújo-0b551317">
+  <a href="https://www.linkedin.com/in/ant%C3%B4nio-jailton-carvalho-ara%C3%BAjo-0b551317/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
